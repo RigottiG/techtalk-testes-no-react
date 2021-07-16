@@ -1,2 +1,3 @@
-# techtalk-testes-no-react
-Techtalk sobre testes no React utilizando Testing Library
+# Techtalk sobre testes no React
+
+Repositório com o código da Techtalk sobre testes no React utilizando [Testing Library](https://testing-library.com/) realizada no dia 09/07/2021.
